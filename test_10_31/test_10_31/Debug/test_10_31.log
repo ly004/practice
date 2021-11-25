@@ -1,0 +1,4 @@
+﻿  2_3.c
+d:\code\test\test_10_31\test_10_31\2_3.c(40): warning C4013: “Fib”未定义；假设外部返回 int
+d:\code\test\test_10_31\test_10_31\2_3.c(41): warning C4715: “Fib1”: 不是所有的控件路径都返回值
+  test_10_31.vcxproj -> D:\code\test\test_10_31\Debug\test_10_31.exe
