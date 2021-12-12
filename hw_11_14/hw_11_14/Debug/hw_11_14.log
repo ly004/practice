@@ -1,0 +1,5 @@
+﻿  _2.c
+d:\code\test\hw_11_14\hw_11_14\_2.c(4): warning C4101: “i”: 未引用的局部变量
+d:\code\test\hw_11_14\hw_11_14\_2.c(47): warning C4013: “printf”未定义；假设外部返回 int
+d:\code\test\hw_11_14\hw_11_14\_2.c(50): warning C4717: “reverse_string”: 如递归所有控件路径，函数将导致运行时堆栈溢出
+  hw_11_14.vcxproj -> D:\code\test\hw_11_14\Debug\hw_11_14.exe
